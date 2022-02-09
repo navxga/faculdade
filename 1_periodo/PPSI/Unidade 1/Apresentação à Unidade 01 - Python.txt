@@ -1,0 +1,15 @@
+01/02/2022
+Unigranrio
+
+# Python
+	É uma linguagem de programação criada em 1991, por Guido van Rossum. Este, nascido em 1956 em Haarlem, na Holanda.
+
+## O que vamos trabalhar nessa unidade?
+	-Conceitos básicos
+	-Estruturas de Seleção e Repetição
+	-Listas
+	-Funções
+	-Tuplas e Dicionários
+	-Módulos e Arquivos
+	-Conceitos de Orientação a Objetos (POO)
+	-Projeto
