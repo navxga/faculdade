@@ -1,6 +1,6 @@
 # Análise e Desenvolvimento de Sistemas
-Faculdade EAD
-Unigranrio Caxias
+* Universitário do Rio de Janeiro
+* EAD Unigranrio Caxias
 
 1° Período
 Início: 01/02/2022
