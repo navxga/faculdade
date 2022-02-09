@@ -1,7 +1,10 @@
-04/02/2022
+04/02/2022 <br>
 Conhecimento, Tecnologia e Carreira
 
-> Empregabilidade x Trabalhabilidade
+# Ensino Superior e a Importância
+no Contexto Profissional
+
+## Empregabilidade x Trabalhabilidade
 
 	> Empregabilidade: remete às habilidades curriculares, o somatório de capacidades que nos mantém empregados. A probabilidade de se MANTER  ESTÁVEL no mercado de trabalho.
 
