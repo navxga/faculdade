@@ -1,13 +1,15 @@
-03/02/2022
+03/02/2022 <br>
 Modelagem Conceitual de Dados
-# teste h1
-Ao final desta Unidade de Aprendizagem, eu vou estar sabendo:
-	> Listar fatos históricos do Surgimento e Evolução dos bancos de dados.
-	> Reconhecer as características básicas dos bancos de dados.
-	> Explicar a importância do banco de dados para o contexto atual das organizações. 
 
--------------------------------------
-- Dados: uma representação simbólica, bruta e desprovida de significado. Pode ser um número, letra, caractere, som, nome, data, figura, símbolo, temperatura, pressão, umidade...
+# teste h1
+> Ao final desta Unidade de Aprendizagem, eu vou estar sabendo:
+>- Listar fatos históricos do Surgimento e Evolução dos bancos de dados.
+>- Reconhecer as características básicas dos bancos de dados.
+>- Explicar a importância do banco de dados para o contexto atual das organizações. 
+---
+
+### Dados 
+Uma representação simbólica, bruta e desprovida de significado. Pode ser um número, letra, caractere, som, nome, data, figura, símbolo, temperatura, pressão, umidade...
 	Podemos dizer que os dados são a principal matéria-prima dos sistemas de informação. 
 	São coletados de qualquer tipo de fonte, como instrumentos, pesquisar, eventos e até observações.
 
