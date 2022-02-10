@@ -54,6 +54,29 @@ Cabe ressaltar que os três setores são interligados, apesar de constarem como 
 
 
 
+# Diferença entre emprego e trabalho
+
+### Emprego
+Significa uma relação entre dois ou mais indivíduos, na qual uma das partes **organiza** as ações e a outra **executa**.
+
+Digamos que é a ação à qual nos submetemos todos os dias, em uma relação entre empregado e empregador, com objetivo de lucratividade.
+
+Barduchi (2010) define emprego como **A relação de interdependências entre capacidades de trabalho**, cujos personagens desse cenário são:
+
+- Contratante (empresário): responsável por ideias, recursos financeiros, físicos, tecnológicos etc.
+- Contratado (funcionário): detentor do conhecimento e da habilidade para a execução das tarefas e atribuições.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
