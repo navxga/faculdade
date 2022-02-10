@@ -11,10 +11,12 @@ Conhecimento Tecnologia e Carreira
 Podemos conceituar mercado de trabalho como um movimento que define a **Procura e Oferta** de atividades remuneradas, oferecidas de **organizações** para **pessoas** que buscam oportunidades.
 
 Atualmente, a quantidade de profissionais interessados em se inserir no mercado de trabalho tem sido maior do que as ofertas que surgem.
-<hr>
 
+## História
 - Karl Marx foi o primeiro estudioso que consolidou o conceito de Mercado de Trabalho
 - Alegava ser uma luta entre as classes dos Trabalhadores x Burguesia
+
+
 
 ## Um lado depende do outro
 - As organizações necessitam dos trabalhadores para executar as atribuições e tarefas para o crescimento exponencial.
@@ -26,3 +28,34 @@ Atualmente, a quantidade de profissionais interessados em se inserir no mercado 
     - Os empregadores são compradores.
     - Os trabalhadores são vendedores.
     - E o Mercado de trabalho é o espaço responsável por toda essa transação.
+
+# Os setores do Mercado de Trabalho
+O mercado de trabalho se baseia na:
+- Quantidade de vagas ofertadas pelas organizações. <br>
+_versus_
+- Quantidade de candidatos à procura de uma oportunidade de emprego.
+
+## O Mercado de Trabalho foi dividido em três macrossetores. São eles:
+
+### 1. Setor primário
+As relações de trabalho são diretamente ligadas à matéria-prima.
+> A pecuária, agricultura e a extração mineral e vegetal.
+
+### 2. Setor secundário
+Lida diretamente com a modificação da matéria-prima.
+> Industrialização da matéria-prima.
+
+### 3. Setor terciário
+São as relações interpessoais. Quando a forma de trabalho é lidar com pessoas e, não, com os objetos.
+> Prestação de serviços em bancos, escolas etc.
+<br>
+
+Cabe ressaltar que os três setores são interligados, apesar de constarem como divididos.
+
+
+
+
+
+
+
+
