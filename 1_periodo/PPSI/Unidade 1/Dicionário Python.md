@@ -1,53 +1,53 @@
-01/02/2022
+01/02/2022 <br>
 Unigranrio
-> Dicionário unordered dos Códigos Python
+# Dicionário unordered dos Códigos Python
 
-	print()
+1. `print()`
 Imprime a mensagem especificada para o Console.
 EX: print('Meu primeiro código em Python') # exibe na tela: Meu primeiro código em Python
 
-	type()
+2. `type()`
 Especifica o tipo de um objeto.
 EX: a = 4.5 
 print(type(a)) # exibe na tela: float
 
-	print(x[y])
+3. `print(x[y])`
 Sendo x uma variável;
 y um número inteiro;
 Esses colchetes servem para acessar apenas o caractere de número y
 EX: print('Python'[3]) # exibe na tela: h
 
-	strip()
+4. `strip()`
 Remove qualquer espaço em branco do começou ou do fim
 EX: a = "   Programando em Python   "
 print(a.strip()) # exibe na tela: Programando em Python
 
-	len()
+5. `len()`
 Retorna o número de caracteres. O tamanho de uma string
 EX: a = "Programando em Python"
 print(lent(a)) # exibe na tela: 21
 
-	lower()
+6. `lower()`
 Retorna a string em letras minúsculas
 EX: a = "Programando em Python"
 print(a.lower()) # exibe na tela: programando em python
 
-	upper()
+7. `upper()`
 Retorna a string em letras maiúsculas
 EX: a = "Programando em Python"
 print(a.upper()) # exibe na tela: PROGRAMANDO EM PYTHON
 
-	replace()
+8. `replace()`
 Substitui uma string por outra string
 EX: a = "Python"
 print(a.replace("P","C")) # exibe na tela: Cython
 
-	split()
+9. `split()`
 Separa as string em substrings
 EX: a = "Banana, Mamão, Jabuticaba"
 print(a.split(",")) # exibe na tela: ['Mamão', ' Banana', ' Jabutacaba']
 
-	input()
+10. `input()`
 Faz uma pausa no programa, e espera a entrada do usuário no terminal
 EX: print("Digite seu nome:")
 #vamos supor q vc escreveu Lyan
