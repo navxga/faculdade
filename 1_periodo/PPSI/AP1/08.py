@@ -1,16 +1,9 @@
-notas = [10, 15, 20, 25]
-
-if notas < [-1] :
-    print('Error!!')
-else:
-    # Quantidade de valores
-    qv = print(len(notas))
-
-    # Valores na ordem
-    print(notas)
-
-    # Valores na ordem inversa
-    print()
-
-    # Soma
-    print(notas[qv])
+n = 0
+total = 0
+valores = 0
+while n != -1:
+    n = float(input('Digite sua nota: '))
+    if n > -1:
+        total = total + 1
+    valores = n
+print(valores)
