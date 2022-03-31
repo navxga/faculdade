@@ -2,6 +2,6 @@
 * Universitário do Rio de Janeiro
 * Faculdade Descomplica
 
-1° Período
+1° Período <br>
 Início: 11/04/2022
 Término: #
