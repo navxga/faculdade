@@ -19,12 +19,12 @@
 
 ## Dados Numéricos
 
-  ### -Inteiros
+  ### - Inteiros
   - Dados numéricos positivos e negativos
   - (Exceto números fracionários)
   > Exemplos: 33, 0, -128
 
-  ### -Reais
+  ### - Reais
   - Dados numéricos positivos, negativos e fracionários
   > Exemplos: 2, 33.7, 0, -128, -26.8, 5, 5.0
 
@@ -35,25 +35,3 @@
 
 ## Dados Lógicos (Boolean)
 - Dados com valores <b>verdadeiro</b> ou <b>falso</b> ("True" ou "False")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
