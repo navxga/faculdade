@@ -1,3 +1,4 @@
+segunda-feira, 11 de abril/2022
 ## Dados
 - A informação na sua forma primordial
 - A matéria prima da informação
