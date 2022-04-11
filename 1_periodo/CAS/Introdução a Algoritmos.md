@@ -1,3 +1,4 @@
+quinta-feira, 31 de março/2022
 - Algoritmo <br>
 Uma sequência ordenada e sem ambiguidade de passos para a resolução de um problema.
 
