@@ -49,6 +49,26 @@ Em projetos inovadores e disruptivos:
 
 # Análise
 
+Esta fase vem depois do resultado final da Elicitação, e a partir do resultado nós vamos agora:
+- Analisar as características de cada requisito, garantindo que será desenvolvido quando estiver completo, estável e aprovado pelo usuário
+
+## Características de um requisito bem definido
+Para garantir uma boa definição de que o requisito está no seu lugar certo, veja se ele é:
+- Necessário
+- Objetivo
+- Correto
+- Completo
+- Consistente
+<br>
+
+- Não-ambíguo
+- Compreensível
+- Modificável
+- Verificável
+- Rastreável
+
+
+
 
 
 
