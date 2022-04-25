@@ -1,3 +1,84 @@
 segunda-feira 25 de abril/2022
 
 ![image](https://user-images.githubusercontent.com/87860884/165131554-1515db44-bfbe-405e-82d0-00be9ef8e9e4.png)
+<br><br>
+
+# Elicitação
+
+![image](https://user-images.githubusercontent.com/87860884/165131954-73866277-6e3d-4578-a1e6-b2ba25be7df0.png)
+
+Nesta fase são realizadas as atividades relacionadas a descoberta dos requisitos e compreensão do que deve ser feito.
+
+A elicitação não esgotatoda a extensão dos requisitos, mas permite a descoberta ao longo do projeto
+
+## Stackeholders
+- São pessoas ou organizações que serão afetadas pelo sistema e que têm influência direta ou indireta nos requisitos do sistema
+- Normalmente, são os responsáveis pela a tomada de decisão e aprovação do projeto (... é quem paga as contas)
+    - Exemplos: Dono da empresa;
+    - Gerentes; 
+    - Especialistas de domínio
+
+## Técnicas de elicitação
+- Interativas (onde tem uma interação mais intensa com o cliente)
+    - Entrevista 
+    - Questionário
+    - Observação
+    - Análise de processo de negócio
+-  Descritiva
+    - Modelo de Domínio  
+    - Análise de documentos
+    - Modelo de caso de uso
+    - História do usuário
+
+Em projetos inovadores e disruptivos:
+- Sessões de cocriação
+- Brainstorming
+- Design Thinking
+
+## Lista de Requisitos
+
+- Resultado final desta fase é uma lista de requisitos ou diagramas para ilustrar o entendimento das necessidades e metas do usuário
+- Serve para mostrar que o que foi exigido, foi feito corretamente.
+
+- Na imagem abaixo, você primeiro verá os requisitos pro sistema e depois o entendimento
+
+![image](https://user-images.githubusercontent.com/87860884/165133794-b5e2a54b-b51c-48c7-88f8-c4fd064a22e9.png)
+
+<br><br><br>
+<hr>
+
+# Análise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
