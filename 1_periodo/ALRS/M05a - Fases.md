@@ -67,38 +67,22 @@ Para garantir uma boa definição de que o requisito está no seu lugar certo, v
 - Verificável
 - Rastreável
 
+## Atributos dos requisitos
+- Prioridade
+- Complexidade
+- Completude
+- Dificuldade
+- Estabilidade
+- Risco
 
+## Criar critérios para os atributos
+Os critérios podem ser definidos em diversos tipos de métricas:
+1. [1..10]
+2. [baixa, média, alta]
+3. [completo, incompleto]
 
+![image](https://user-images.githubusercontent.com/87860884/165372388-cd326f3a-0e44-452d-9726-0d682171401f.png)
 
+# O resultado FINAL da Análise é essa tabela:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/87860884/165372535-73d1cc63-ce38-4eff-b06a-bd0ec5471db5.png)
