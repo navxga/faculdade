@@ -30,3 +30,17 @@ terça-feira, 26 de abril/2022
 
 # Validação
 
+A especificação dos requisitos precisa ser validada entre os stakeholders e a equipe de desenvolvimento para garantir que existe uma compreensão correta e comum sobre os requisitos, e que a equipe de desenvolvimento possui as condições de implementar um produto que irá satisfazer as necessidades do negócio
+
+## Comunicação
+- Todo artefato de interação com o usuário deve ser "devidamente" comunicado (em tempo adequado, forma, estrutura, conteúdo, meio, frequência, granularidade)
+- Quanto mais simples e padronizado forem os artefatos que o usuário tiver que aprovar, mais ágil deveria ser o processo de levantamento, especificação e aprovação
+- Quanto mais preciso forem estes artefatos, menor retrabalho será realizado em função de baixa qualidade dos requisitos
+- Toda comunicação deve ser realizada conforme o plano de comunicação definido para o projeto
+    - Exemplo de plano de comunicação:
+    - No SCRUM, que é um processo ágil, o plano de comunicação são REUNIÕES DIÁRIAS de 15 minutos
+
+## Usuário dos documentos de requisitos
+
+![image](https://user-images.githubusercontent.com/87860884/165390691-656c82b5-a795-49fa-be5e-262ae3a78717.png)
+
