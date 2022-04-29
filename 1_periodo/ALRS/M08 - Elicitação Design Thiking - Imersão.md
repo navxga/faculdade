@@ -11,7 +11,10 @@ sexta-feira, 29 de abril/2022
 
 ### Entendimento dos Conceitos
 
-- Imersão preliminar
+- [Imersão Preliminar](#imersao-preliminar)
 - Reenquadramento
 - Pesquisa exploratória 
 - Pesquisa de mesa
+
+
+# Imersão Preliminar
