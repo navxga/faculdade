@@ -22,3 +22,51 @@ Os documentos da área podem ser previamente coletados para estudo e preparaçã
 - Relatórios
 - Manual do usuário
 - Descrição de procedimentos
+
+Permite abstrair necessidades, identificar regras de negócio, discrepâncias e redundâncias
+
+### Vantagens
+- Identificação dos documentos pertinentes ao processo
+- Coleta de dados quantitativos, encontrando taxas de erro em documentos existentes inadequados
+- Promove condições para análise e refinamento do processo
+
+# Desvantagens
+- Dispersão das informações e volume de trabalho
+	- Por exemplo, ter que achar 10 manuais... Ai você acha e o manual e ele não tem identificação de quando é...
+- Documentação pode estar desatualizada
+- Redundância
+	- Encontrar documentos iguais... 
+
+<br><br><br>
+<hr>
+
+
+
+# Casos de Uso Cenários
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
