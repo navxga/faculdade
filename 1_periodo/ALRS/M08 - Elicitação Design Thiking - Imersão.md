@@ -11,61 +11,63 @@ sexta-feira, 29 de abril/2022
 
 ### Entendimento dos Conceitos
 
-- [Imersão Preliminar](#imersao-preliminar)
+- [Imersão Preliminar](#imersão-preliminar)
 - Reenquadramento
 - Pesquisa exploratória 
 - Pesquisa de mesa
 
 
+
+
+
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
+
+a
+a
 # Imersão Preliminar
-
-
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
-
-a
-a
+- lalaal
 
 a
 a
