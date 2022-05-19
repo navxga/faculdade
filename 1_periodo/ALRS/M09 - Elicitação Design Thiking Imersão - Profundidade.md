@@ -58,6 +58,34 @@ Colocar no caderno de sensibilização o/a:
 
 # 5) Um dia na vida
 
+- Simulação de um dia a dia de um usuário final sob o ponto de vista com um diferente olhar
+- Objetivo: representar um dia a dia de um usuário final. Conhecer os detalhes do dia de um usuário final
+- Ações comportamentos e emoções são analisados
+- Entendimento e análise do comportamento e interesses do usuário final
+- Equipe e desenvolvimento assumem os papéis do usuário final e dos outros atores envolvidos no negócio
 
+### Sistema de economia compartilhada em condomínio
+- Simulação de um objeto sendo compartilhado
+- Um condômino vive seus momentos de escolhar e decisões sobre a economia compartilhada
+- Escolha do objeto e do benefício em compartilhar
 
 # 6) Sombra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
