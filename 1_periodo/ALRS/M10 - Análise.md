@@ -81,17 +81,3 @@ Rankear os requisitos, saber quais são mais importantes... E priorizá-los por 
 ### Sistema de economia compartilhada em condomínio
 
 ![image](https://user-images.githubusercontent.com/87860884/170146686-f22c2b10-5905-4dba-9ead-cc9e253f9921.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
