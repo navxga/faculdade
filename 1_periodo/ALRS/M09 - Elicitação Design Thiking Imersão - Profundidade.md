@@ -70,22 +70,12 @@ Colocar no caderno de sensibilização o/a:
 - Escolha do objeto e do benefício em compartilhar
 
 # 6) Sombra
+- Alguém da equipe acompanha a interação do usuário final como o produto ou serviço
+- Atuação como sombra apenas observando sem interagir ou intervir
+- Obter informações importantes para o negócio
+- Entedimento mais rico sobre comportamento, emoções, sentimentos, nas expectativas e hábitos do usuário final
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Sistema de economia compartilhada em condomínio
+- Alguém da equipe observa passo a passo da utilização do sistema pelo condômino, como uma sombra
+- Extração de informações sobre comportamento, emoções e sentimentos na utilização do sistema por um condômino 
