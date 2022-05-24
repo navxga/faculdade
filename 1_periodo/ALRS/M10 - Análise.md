@@ -25,7 +25,22 @@ Você faz uma análise dos requisitos, e chega nessa primeira etapa, que serve p
 	- Origem, relacionamento   
 
 
+
 # 2) Priorização
+Rankear os requisitos, saber quais são mais importantes... E priorizá-los por sua importância
+- Precisa escolher o que será desenvolvido primeiro e o que será desenvolvido depois
+- A prioridade otimiza os recursos e diminui os custos
+
+### Sistema de economia compartilhada em condomínio
+- Mais prioridade das funcionalidade de:
+	- cadastro e validação do condômino
+	- cadastro e validação do objeto
+	-processo de agendamento 
+	
+- Menos prioridade das funcionalidades de:
+	- gamification
+	- descontos ou abatimentos
+	- inteligência artificial 
 
 
 
