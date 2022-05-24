@@ -10,36 +10,31 @@ terça-feira, 24 de maio/2022
 - [Matrizes de requisitos](#5-matrizes-de-requisitos)
 
 # 1) Tipos de classificação
-adsdasdasd
-das
-das
-das
-das
-das
-das
-asd
-asd
-asd
+Você faz uma análise dos requisitos, e chega nessa primeira etapa, que serve para verificar alguns assuntos importantes SOBRE os requisitos:
+- Corretude:
+	- "(...)todos são significativos?"
+- Completos:
+	- "(...)têm todos os significados que eu estou buscando?"
+- Consistentes:
+	- "(...)entre si?"  
+- Não-ambíguos:
+	- Ter apenas um único sentido
+- Verificáveis:
+	- Testáveis
+- Rastreáveis:
+	- Origem, relacionamento   
+
 
 # 2) Priorização
 
 
 
-sad
-asdasds
-dasd
-a
-
-asd
-asd
-as
-dasd
-as
-d
 # 3) Complexidade
 
 
+
 # 4) Completude
+
 
 
 # 5) Matrizes de requisitos
