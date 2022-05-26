@@ -55,32 +55,3 @@ Aqui seria um Caso de Sucesso, COM DESVIO
 
 # Dicionário de Dados
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[
